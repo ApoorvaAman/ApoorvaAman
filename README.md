@@ -2,7 +2,6 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
   I am a Computer Science Engineer. I am interested in Web Development and Graphic/UI design.
-  I had less interest in Java/C/C++ and started learning JavaScript while building a discord bot. I switched to TypeScript midway and enjoying it so far.
   Currently I'm building projects in React.
 </p>
 
